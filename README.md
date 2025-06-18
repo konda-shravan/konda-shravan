@@ -4,7 +4,7 @@
 
 📍 Hyderabad, India  
 📧 konda.shravan@outlook.com  
-📞 +91 8125931731  
+📞 +91 9550033748  
 🔗 [LinkedIn](https://linkedin.com/in/kondas1202)
 
 ---
@@ -50,7 +50,7 @@ I’m also certified at **A2 level in German** and open to **relocation across E
 
 ## 🚀 GitHub Stats
 
-![Shravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kondas1202&show_icons=true&theme=tokyonight)
+![Shravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=konda-shravan&show_icons=true&theme=tokyonight)
 
 ---
 
