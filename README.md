@@ -1,54 +1,48 @@
-👋 Hi, I'm Konda Shravan
+# 👋 Hi, I'm Konda Shravan
 
-Full Stack Developer | 9 Years Experience | React.js, Vue.js, Spring Boot, Node.js, Microservices
+**Full Stack Developer | 9 Years Experience | React.js, Vue.js, Spring Boot, Node.js, Microservices**
 
-📍 Hyderabad, India
-📧 konda.shravan@outlook.com
+📍 Hyderabad, India  
+📧 konda.shravan@outlook.com  
+📞 +91 9550033748  
+🔗 [LinkedIn](https://linkedin.com/in/kondas1202)
 
-📞 +91 9550033748
-🔗 LinkedIn
+---
 
-🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I’m a Full Stack Developer with 9 years of experience building scalable, performant, and secure web applications across multiple frameworks and cloud platforms. I've delivered solutions for clients across domains, collaborating with global teams in agile environments.
+I’m a Full Stack Developer with **9 years of experience** building scalable, performant, and secure web applications across multiple frameworks and cloud platforms. I've delivered solutions for clients across domains, collaborating with global teams in agile environments.
 
 I’m proficient in both frontend and backend development using:
 
-Frontend: React.js, Vue.js, HTML5, CSS3, Bootstrap, Tailwind
+- **Frontend:** React.js, Vue.js, HTML5, CSS3, Bootstrap, Tailwind  
+- **Backend:** Spring Boot, Spring Framework, **Microservices Architecture**, Node.js  
+- **Cloud:** AWS (EC2, S3, Lambda), Azure (App Services, Functions)  
+- **DevOps:** CI/CD pipelines, GitHub Actions, Jenkins, Docker, Kubernetes  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Languages:** Java, C#, JavaScript/TypeScript, Ruby  
+- **Tools:** Git, Jira, VS Code, IntelliJ, Postman  
 
-Backend: Spring Boot, Spring Framework, Microservices Architecture, Node.js
+I’m also certified at **A2 level in German** and open to **relocation across Europe**.
 
-Cloud: AWS (EC2, S3, Lambda), Azure (App Services, Functions)
+---
 
-DevOps: CI/CD pipelines, GitHub Actions, Jenkins, Docker
+## 🏗️ Spring Boot & Microservices Expertise
 
-Databases: MySQL, PostgreSQL, MongoDB
+- Designed and developed **domain-driven microservices** with Spring Boot & Spring Cloud  
+- Implemented **API Gateway** (Spring Cloud Gateway) and **Service Discovery** (Eureka)  
+- Secured services using **Spring Security + OAuth2/JWT**  
+- Managed **distributed configurations** with Spring Cloud Config  
+- Applied **circuit breakers & resilience patterns** (Resilience4j/Hystrix)  
+- Built **event-driven architectures** with Kafka & RabbitMQ  
+- Ensured **decentralized data management** using PostgreSQL, MongoDB, and Redis  
+- Deployed microservices on **AWS & Azure** with Docker & Kubernetes  
 
-Languages: Java, C#, JavaScript/TypeScript, Ruby
+---
 
-Tools: Git, Jira, VS Code, IntelliJ, Postman
+## 🖼️ Microservices Architecture (Example)
 
-I’m also certified at A2 level in German and open to relocation across Europe.
-
-🏗️ Spring Boot & Microservices Expertise
-
-Designed and developed domain-driven microservices with Spring Boot & Spring Cloud
-
-Implemented API Gateway (Spring Cloud Gateway) and Service Discovery (Eureka)
-
-Secured services using Spring Security + OAuth2/JWT
-
-Managed distributed configurations with Spring Cloud Config
-
-Applied circuit breakers & resilience patterns (Resilience4j/Hystrix)
-
-Built event-driven architectures with Kafka & RabbitMQ
-
-Ensured decentralized data management using PostgreSQL, MongoDB, and Redis
-
-Deployed microservices on AWS & Azure with Docker & Kubernetes
-
-🖼️ Microservices Architecture (Example)
+```mermaid
 flowchart TD
     Client[🌐 Client Apps] -->|HTTPS| Gateway[🔑 API Gateway]
     Gateway -->|Service Discovery| Eureka[(Eureka Server)]
@@ -63,15 +57,3 @@ flowchart TD
     
     OrderService -->|Events| Kafka[(Kafka Broker)]
     PaymentService -->|Events| Kafka
-
-🚀 GitHub Stats
-
-📌 Fun Facts
-
-👨‍🏫 Mentored junior developers in modern JavaScript, Spring Boot, and cloud-native architectures
-
-🌍 Passionate about international collaboration and remote-first culture
-
-✈️ Actively exploring job opportunities across Germany, Netherlands, Denmark, and other EU countries
-
-“Build clean. Think global. Automate everything.”
