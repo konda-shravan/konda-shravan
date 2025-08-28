@@ -40,6 +40,8 @@ I’m also certified at **A2 level in German** and open to **relocation across E
 
 ---
 
+## 🚀 GitHub Stats ![Shravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=konda-shravan&show_icons=true&theme=tokyonight)
+
 ## 🖼️ Microservices Architecture (Example)
 
 ```mermaid
