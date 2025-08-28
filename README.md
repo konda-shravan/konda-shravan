@@ -57,3 +57,12 @@ flowchart TD
     
     OrderService -->|Events| Kafka[(Kafka Broker)]
     PaymentService -->|Events| Kafka
+
+```mermaid
+flowchart LR
+    Dev[👨‍💻 Developer] -->|Push Code| GitHub[🐙 GitHub Repo]
+    GitHub -->|Trigger| CI[⚙️ GitHub Actions/Jenkins]
+    CI -->|Build| Docker[🐳 Docker Image]
+    Docker -->|Deploy| K8s[☸️ Kubernetes Cluster]
+    K8s -->|Cloud Deploy| AWS[(AWS)] & Azure[(Azure)]
+
