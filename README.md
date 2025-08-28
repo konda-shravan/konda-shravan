@@ -59,3 +59,4 @@ flowchart TD
     PaymentService -->|Events| Kafka
 
 
+## 🚀 GitHub Stats ![Shravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=konda-shravan&show_icons=true&theme=tokyonight)
