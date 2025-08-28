@@ -66,12 +66,4 @@ flowchart LR
     Docker -->|Deploy| K8s[☸️ Kubernetes Cluster]
     K8s -->|Cloud Deploy| AWS[(AWS)] & Azure[(Azure)]
 
-📌 Fun Facts
-
-👨‍🏫 Mentored junior developers in modern JavaScript, Spring Boot, and cloud-native architectures
-
-🌍 Passionate about international collaboration and remote-first culture
-
-✈️ Actively exploring job opportunities across Germany, Netherlands, Denmark, and other EU countries
-
 ## 🚀 GitHub Stats ![Shravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=konda-shravan&show_icons=true&theme=tokyonight)
