@@ -1,67 +1,77 @@
-# 👋 Hi, I'm Konda Shravan
+👋 Hi, I'm Konda Shravan
 
-**Full Stack Developer | 9 Years Experience | React.js, Vue.js, Spring Boot, Node.js, Ruby on Rails**
+Full Stack Developer | 9 Years Experience | React.js, Vue.js, Spring Boot, Node.js, Microservices
 
-📍 Hyderabad, India  
-📧 konda.shravan@outlook.com  
-📞 +91 9550033748  
-🔗 [LinkedIn](https://linkedin.com/in/kondas1202)
+📍 Hyderabad, India
+📧 konda.shravan@outlook.com
 
----
+📞 +91 9550033748
+🔗 LinkedIn
 
-## 🧑‍💻 About Me
+🧑‍💻 About Me
 
-I’m a Full Stack Developer with **9 years of experience** building scalable, performant, and secure web applications across multiple frameworks and cloud platforms. I've delivered solutions for clients across domains, collaborating with global teams in agile environments.
+I’m a Full Stack Developer with 9 years of experience building scalable, performant, and secure web applications across multiple frameworks and cloud platforms. I've delivered solutions for clients across domains, collaborating with global teams in agile environments.
 
 I’m proficient in both frontend and backend development using:
 
-- **Frontend:** React.js, Vue.js, HTML5, CSS3, Bootstrap, Tailwind
-- **Backend:** Spring Boot, Spring Framework, .NET, Node.js, Ruby on Rails
-- **Cloud:** AWS (EC2, S3, Lambda), Azure (App Services, Functions)
-- **DevOps:** CI/CD pipelines, GitHub Actions, Jenkins, Docker
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Languages:** Java, C#, JavaScript/TypeScript, Ruby
-- **Tools:** Git, Jira, VS Code, IntelliJ, Postman
+Frontend: React.js, Vue.js, HTML5, CSS3, Bootstrap, Tailwind
 
-I’m also certified at **A2 level in German** and open to **relocation across Europe**.
+Backend: Spring Boot, Spring Framework, Microservices Architecture, Node.js
 
----
+Cloud: AWS (EC2, S3, Lambda), Azure (App Services, Functions)
 
-## 💼 Experience Snapshot
+DevOps: CI/CD pipelines, GitHub Actions, Jenkins, Docker
 
-- **Associate Lead – Proarch IT Solutions (Remote)**  
-  Jan 2024 – Present  
-  *(Client: CHS)*
+Databases: MySQL, PostgreSQL, MongoDB
 
-- **Senior Consultant (React) – O2F Info Solutions (Remote)**  
-  May 2022 – April 2023  
-  *(Client: Microsoft)*
+Languages: Java, C#, JavaScript/TypeScript, Ruby
 
-- **Senior Software Engineer – Ebix (Remote)**  
-  April 2021 – April 2022
+Tools: Git, Jira, VS Code, IntelliJ, Postman
 
-- **Senior Associate Technology – Clarosoft Solutions Ltd**  
-  Feb 2017 – April 2021
+I’m also certified at A2 level in German and open to relocation across Europe.
 
-- **Software Engineer – Trigent Software Inc (Client – CTS)**  
-  Dec 2015 – Jan 2017
+🏗️ Spring Boot & Microservices Expertise
 
----
+Designed and developed domain-driven microservices with Spring Boot & Spring Cloud
 
-## 🚀 GitHub Stats
+Implemented API Gateway (Spring Cloud Gateway) and Service Discovery (Eureka)
 
-![Shravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=konda-shravan&show_icons=true&theme=tokyonight)
+Secured services using Spring Security + OAuth2/JWT
 
----
+Managed distributed configurations with Spring Cloud Config
 
-## 📌 Fun Facts
+Applied circuit breakers & resilience patterns (Resilience4j/Hystrix)
 
-- 👨‍🏫 Mentored junior developers in modern JavaScript and cloud-native architectures.
-- 🌍 Passionate about international collaboration and remote-first culture.
-- ✈️ Actively exploring job opportunities across **Germany, Netherlands, Denmark**, and other EU countries.
+Built event-driven architectures with Kafka & RabbitMQ
 
----
+Ensured decentralized data management using PostgreSQL, MongoDB, and Redis
 
-> “Build clean. Think global. Automate everything.”
+Deployed microservices on AWS & Azure with Docker & Kubernetes
 
-Thanks for visiting! Feel free to connect or collaborate.
+🖼️ Microservices Architecture (Example)
+flowchart TD
+    Client[🌐 Client Apps] -->|HTTPS| Gateway[🔑 API Gateway]
+    Gateway -->|Service Discovery| Eureka[(Eureka Server)]
+    
+    Gateway --> UserService[👤 User Service]
+    Gateway --> OrderService[📦 Order Service]
+    Gateway --> PaymentService[💳 Payment Service]
+    
+    UserService --> MySQL[(MySQL DB)]
+    OrderService --> PostgreSQL[(PostgreSQL DB)]
+    PaymentService --> MongoDB[(MongoDB DB)]
+    
+    OrderService -->|Events| Kafka[(Kafka Broker)]
+    PaymentService -->|Events| Kafka
+
+🚀 GitHub Stats
+
+📌 Fun Facts
+
+👨‍🏫 Mentored junior developers in modern JavaScript, Spring Boot, and cloud-native architectures
+
+🌍 Passionate about international collaboration and remote-first culture
+
+✈️ Actively exploring job opportunities across Germany, Netherlands, Denmark, and other EU countries
+
+“Build clean. Think global. Automate everything.”
