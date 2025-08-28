@@ -59,11 +59,4 @@ flowchart TD
     PaymentService -->|Events| Kafka
 
 
-flowchart LR
-    Dev[👨‍💻 Developer] -->|Push Code| GitHub[🐙 GitHub Repo]
-    GitHub -->|Trigger| CI[⚙️ GitHub Actions/Jenkins]
-    CI -->|Build| Docker[🐳 Docker Image]
-    Docker -->|Deploy| K8s[☸️ Kubernetes Cluster]
-    K8s -->|Cloud Deploy| AWS[(AWS)] & Azure[(Azure)]
-
 ## 🚀 GitHub Stats ![Shravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=konda-shravan&show_icons=true&theme=tokyonight)
